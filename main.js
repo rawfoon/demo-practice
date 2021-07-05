@@ -1,5 +1,5 @@
-const nextIcon = '<img src="../img/right-arrow.svg">';
-const prevIcon = '<img src="../img/previous.svg">';
+const nextIcon = '<img src="right-arrow.svg">';
+const prevIcon = '<img src="previous.svg">';
 
 $(document).ready(function() {
     $('.owl-carousel').owlCarousel({
