@@ -4,6 +4,9 @@
     text-transform: uppercase;
 }
 
+html{
+	scroll-behavior: smooth;
+	}
 
 /* Heading */
 
