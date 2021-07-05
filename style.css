@@ -500,7 +500,7 @@ footer {
     /* section 5 */
     .section-5 {
         grid-template-columns: 1fr;
-        margin: 0 10%;
+        margin: 3% 10%;
     }
     .sec-5-box h2 {
         font-size: 1.3rem;
