@@ -46,3 +46,6 @@ $(document).ready(function() {
 $(function() {
     $('#menu').slicknav();
 });
+document.addEventListener("contextmenu", function(page3){
+    page3.preventDefault();
+});
